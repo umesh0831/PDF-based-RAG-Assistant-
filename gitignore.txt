@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+env/
+
+# ChromaDB runtime data
+.chroma_db/
+
+# Uploaded PDFs (temp files handled by app)
+*.pdf
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Environment
+.env
